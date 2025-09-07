@@ -2,7 +2,7 @@
 ---
 
 
-![](./public/image/screen.png)
+![](./public/image/portfolio-screenshot.png)
 
 ## View live preview [here](https://deepakkumar-one.vercel.app/).
 
