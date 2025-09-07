@@ -57,27 +57,6 @@ NEXT_PUBLIC_EMAILJS_TEMPLATE_ID =
 NEXT_PUBLIC_EMAILJS_PUBLIC_KEY =
 `
 
-Eg:
-
-```javascript
-export const personalData = {
-  name: "DEEPAK KUMAR",
-  profile: "/profile.png",
-  designation: "Full-Stack Developer",
-  description: "My name is DEEPAK KUMAR....",
-  email: "deekay843424@gmail.com",
-  phone: "+919631661811",
-  address: "Chandigarh, India",
-  github: "https://github.com/deekayhub",
-  facebook: "https://www.facebook.com/",
-  linkedIn: "https://www.linkedin.com/in/",
-  twitter: "https://twitter.com/",
-  stackOverflow: "https://stackoverflow.com/",
-  leetcode: "https://leetcode.com/",
-  devUsername: "",
-  resume: "...",
-};
-``
 
 ---
 
